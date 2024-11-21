@@ -76,7 +76,7 @@ We welcome contributions from the community! Here's how you can contribute:
 
 ## Roadmap  
 
-- ✅ **Desktop Application (C# WinForms)**: Initial release with core HR and payroll features.  
+- ⬜ **Desktop Application (C# WinForms)**: Initial release with core HR and payroll features.  
 - ⬜ **Web Application (Node.js + React)**: Planned for future development.  
 - ⬜ **Mobile App**: Potential future addition for employee self-service.  
 
@@ -84,4 +84,4 @@ We welcome contributions from the community! Here's how you can contribute:
 
 ## Support  
 
-If you have any questions or suggestions, feel free to open an issue or contact me at [kashvira.softwares@gmail.com].  
+If you have any questions or suggestions, feel free to open an issue or contact us at [kashvira.softwares@gmail.com].  
